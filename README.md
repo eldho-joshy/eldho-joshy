@@ -43,7 +43,7 @@ I focus on writing clean, well-documented analysis code and presenting insights 
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/eldho160806  
+- GitHub: https://github.com/eldho-joshy 
 - LinkedIn: https://www.linkedin.com/in/eldho-joshy/
 
 ---

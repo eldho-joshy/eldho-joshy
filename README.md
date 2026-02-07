@@ -19,21 +19,24 @@ I focus on writing **clean, well-structured analysis code** and presenting findi
 - **Programming:** Python  
 - **Data Analysis:** Pandas, NumPy  
 - **Data Visualization:** Matplotlib, Seaborn  
-- **Data Tasks:** Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA)  
+- **Data Tasks:** Data Cleaning, Preprocessing, EDA  
 - **Other Tools:** Excel (Basic–Intermediate), Jupyter Notebook  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Trader Behavior Insights
-Exploratory analysis of Bitcoin market sentiment (Fear vs Greed) and its impact on trader behavior and profitability.
+### 🔹 Trader Behavior Insights  
+Exploratory analysis of Bitcoin market sentiment (Fear vs Greed) and its impact on trader behavior and profitability.  
+🔗 https://github.com/eldho-joshy/Trader-Behavior-Insights
 
-### 🔹 Netflix Data Exploration
-Analysis of Netflix content data to identify trends using data cleaning and visualization techniques.
+### 🔹 Netflix Data Exploration  
+Analysis of Netflix content data to identify trends using data cleaning and visualization techniques.  
+🔗 https://github.com/eldho-joshy/Netflix_Data_Exploration
 
-### 🔹 Event Data Analysis Project
-Event-based dataset analysis to identify patterns and trends through exploratory data analysis.
+### 🔹 Event Data Analysis Project  
+Event-based dataset analysis to identify patterns and trends through exploratory data analysis.  
+🔗 https://github.com/eldho-joshy/Event_Data_Analysis_Project
 
 ---
 
@@ -46,7 +49,7 @@ Event-based dataset analysis to identify patterns and trends through exploratory
 ---
 
 ## 📫 Connect with Me
-- **E-mail:** https://eldhojoshy2006@gmail.com
+
 - **GitHub:** https://github.com/eldho-joshy  
 - **LinkedIn:** https://www.linkedin.com/in/eldho-joshy/
 

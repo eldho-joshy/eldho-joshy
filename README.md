@@ -5,13 +5,22 @@
 📈 Always improving through real work, not just theory.
 
 ---
+## Github Overview
 
-## 📊 GitHub Overview
+<h2 align="center">GitHub Overview</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=donut&theme=dark&hide_border=true" height="165"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=dark&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <h3>Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=donut&theme=dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
 ---

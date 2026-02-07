@@ -46,7 +46,7 @@ Event-based dataset analysis to identify patterns and trends through exploratory
 ---
 
 ## 📫 Connect with Me
-
+- **E-mail:** https://eldhojoshy2006@gmail.com
 - **GitHub:** https://github.com/eldho-joshy  
 - **LinkedIn:** https://www.linkedin.com/in/eldho-joshy/
 

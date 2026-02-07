@@ -9,16 +9,17 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=dark&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=donut&theme=dark&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=donut&theme=dark&hide_border=true" height="165"/>
 </p>
+
 
 ---
 
 ## 🔥 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldho-joshy&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldho-joshy&theme=github-dark&hide_border=true"/>
 </p>
 
 ---

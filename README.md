@@ -1,49 +1,55 @@
-Hi, I’m Eldho 👋
-🎓 BCA (AI & Data Science) Student
-📊 Aspiring Data Analyst
-🐍 Python | Excel | Data Cleaning | Data Visualization
+# Hi, I’m Eldho 👋
 
-👨‍💻 About Me
+🎓 **BCA (AI & Data Science) Student**  
+📊 **Aspiring Data Analyst**  
+🐍 **Python | Excel | Data Cleaning | Data Visualization**
 
-I am a BCA student specializing in AI & Data Science, with a strong interest in data analysis and exploratory data analysis (EDA). I enjoy working with real-world datasets to uncover patterns, trends, and actionable insights that support data-driven decision-making.
+---
 
-I focus on writing clean, well-structured analysis code and presenting findings through clear, meaningful visualizations that are easy to interpret.
+## 👨‍💻 About Me
 
-🛠️ Skills & Tools
+I am a BCA student specializing in **AI & Data Science**, with a strong interest in **data analysis and exploratory data analysis (EDA)**. I enjoy working with real-world datasets to uncover **patterns, trends, and actionable insights** that support data-driven decision-making.
 
-Programming: Python
+I focus on writing **clean, well-structured analysis code** and presenting findings through **clear, meaningful visualizations** that are easy to interpret.
 
-Data Analysis: Pandas, NumPy
+---
 
-Data Visualization: Matplotlib, Seaborn
+## 🛠️ Skills & Tools
 
-Data Tasks: Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA)
+- **Programming:** Python  
+- **Data Analysis:** Pandas, NumPy  
+- **Data Visualization:** Matplotlib, Seaborn  
+- **Data Tasks:** Data Cleaning, Preprocessing, Exploratory Data Analysis (EDA)  
+- **Other Tools:** Excel (Basic–Intermediate), Jupyter Notebook  
 
-Other Tools: Excel (Basic–Intermediate), Jupyter Notebook
+---
 
-📌 Featured Projects
+## 📌 Featured Projects
 
-Trader Behavior Insights
+### 🔹 Trader Behavior Insights
 Exploratory analysis of Bitcoin market sentiment (Fear vs Greed) and its impact on trader behavior and profitability.
 
-Netflix Data Exploration
+### 🔹 Netflix Data Exploration
 Analysis of Netflix content data to identify trends using data cleaning and visualization techniques.
 
-Event Data Analysis Project
+### 🔹 Event Data Analysis Project
 Event-based dataset analysis to identify patterns and trends through exploratory data analysis.
 
-🎯 Career Focus
+---
 
-Data Analyst Internships
+## 🎯 Career Focus
 
-Entry-level Data Analyst roles
+- Data Analyst Internships  
+- Entry-level Data Analyst roles  
+- Building strong foundations in **EDA and data visualization**
 
-Building strong foundations in EDA and data visualization
+---
 
-📫 Connect with Me
+## 📫 Connect with Me
 
-GitHub: https://github.com/eldho-joshy
+- **GitHub:** https://github.com/eldho-joshy  
+- **LinkedIn:** https://www.linkedin.com/in/eldho-joshy/
 
-LinkedIn: https://www.linkedin.com/in/eldho-joshy/
+---
 
-⭐ Continuously learning and improving through hands-on data analysis projects.
+⭐ *Continuously learning and improving through hands-on data analysis projects.*

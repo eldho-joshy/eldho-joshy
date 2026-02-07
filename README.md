@@ -16,7 +16,7 @@ I focus on writing **clean, well-structured analysis code** and presenting findi
 
 ## 🛠️ Skills & Tools
 
-- **Programming:** Python  
+- **Programming:** Python, SQl, C, Java 
 - **Data Analysis:** Pandas, NumPy  
 - **Data Visualization:** Matplotlib, Seaborn  
 - **Data Tasks:** Data Cleaning, Preprocessing, EDA  

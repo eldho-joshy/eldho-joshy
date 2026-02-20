@@ -1,58 +1,91 @@
-# Hi, I’m Eldho 👋
+# 👨‍💻 Eldho Joshy
 
-🎓 **BCA (AI & Data Science) Student**  
-📊 **Aspiring Data Analyst**  
-🐍 **Python | Excel | Data Cleaning | Data Visualization**
+### 📊 Data Analytics | Business Intelligence | AI & Data Science
 
 ---
 
-## 👨‍💻 About Me
+## 📈 Analytics Dashboard
 
-I am a BCA student specializing in **AI & Data Science**, with a strong interest in **data analysis and exploratory data analysis (EDA)**. I enjoy working with real-world datasets to uncover **patterns, trends, and actionable insights** that support data-driven decision-making.
-
-I focus on writing **clean, well-structured analysis code** and presenting findings through **clear, meaningful visualizations** that are easy to interpret.
-
----
-
-## 🛠️ Skills & Tools
-
-- **Programming:** Python, SQL, C, Java 
-- **Data Analysis:** Pandas, NumPy  
-- **Data Visualization:** Matplotlib, Seaborn  
-- **Data Tasks:** Data Cleaning, Preprocessing, EDA  
-- **Other Tools:** Excel (Basic–Intermediate), Jupyter Notebook  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Contribution Activity
 
-### 🔹 Trader Behavior Insights  
-Exploratory analysis of Bitcoin market sentiment (Fear vs Greed) and its impact on trader behavior and profitability.  
-🔗 https://github.com/eldho-joshy/Trader-Behavior-Insights
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=eldho-joshy&theme=transparent&hide_border=true" height="170"/>
+</p>
 
-### 🔹 Netflix Data Exploration  
-Analysis of Netflix content data to identify trends using data cleaning and visualization techniques.  
-🔗 https://github.com/eldho-joshy/Netflix_Data_Exploration
-
-### 🔹 Event Data Analysis Project  
-Event-based dataset analysis to identify patterns and trends through exploratory data analysis.  
-🔗 https://github.com/eldho-joshy/Event_Data_Analysis_Project
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldho-joshy&theme=github-compact&hide_border=true"/>
+</p>
 
 ---
 
-## 🎯 Career Focus
+## 🧠 About Me
 
-- Data Analyst Internships  
-- Entry-level Data Analyst roles  
-- Building strong foundations in **EDA and data visualization**
+BCA student specializing in AI & Data Science with a strong focus on analytical problem-solving and performance-driven insights.
+
+I build structured projects involving:
+
+* 📊 KPI-driven dashboards
+* 📈 Exploratory Data Analysis
+* 📉 Profitability & trend analysis
+* 🧹 Data cleaning & preprocessing
+* 🧠 Insight-based reporting
 
 ---
 
-## 📫 Connect with Me
-- **E-mail:** eldhojoshy2006@gmail.com
-- **GitHub:** https://github.com/eldho-joshy  
-- **LinkedIn:** https://www.linkedin.com/in/eldho-joshy/
+## 🛠 Technical Stack
+
+**Languages:**
+Python • SQL • DAX
+
+**Tools:**
+Power BI • MySQL • Jupyter Notebook • VS Code
+
+**Libraries:**
+pandas • numpy • matplotlib • seaborn • scikit-learn
 
 ---
 
-⭐ *Continuously learning and improving through hands-on data analysis projects.*
+## 🏗 Featured Projects
+
+### 📊 Retail Sales & Profitability Analysis
+
+Executive Power BI dashboard with KPI monitoring and margin optimization.
+🔗 [https://github.com/eldho-joshy/Retail-Sales-Profitability-Analysis-Powerbi](https://github.com/eldho-joshy/Retail-Sales-Profitability-Analysis-Powerbi)
+
+---
+
+### 📈 Trader Behavior Insights
+
+Sentiment-based trading performance analysis using Python.
+
+---
+
+### 📰 Wikimedia Event Analyzer
+
+Structured event data analytics using API & CSV datasets.
+
+---
+
+### 📊 Netflix Data Exploration
+
+Exploratory analysis of content distribution and release trends.
+
+---
+
+## 🎯 Current Focus
+
+* Advanced SQL analytics
+* DAX optimization
+* Domain-focused data projects
+* Internship readiness
+
+---
+
+

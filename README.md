@@ -84,12 +84,8 @@ Structured. Sequential. Decision-Oriented.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=github_light&hide_border=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=compact&theme=github_light&hide_border=true" height="140"/>
-  <img src="https://streak-stats.demolab.com?user=eldho-joshy&theme=github-light&hide_border=true" height="140"/>
+  <img src="https://raw.githubusercontent.com/eldho-joshy/eldho-joshy/main/metrics.svg" />
 </p>
-
----
 
 ## 📜 Certifications
 

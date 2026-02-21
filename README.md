@@ -15,23 +15,29 @@
 🎯 Actively seeking **Data Analyst Internship (May–June 2026)**  
 
 📫 Email: eldhojoshy2006@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/eldho-joshy
+🔗 LinkedIn: linkedin.com/in/eldho-joshy
 
 ---
 
 ## 🔄 My Data Approach
-  Raw Dataset
-       ↓
-  Data Cleaning & Preprocessing
-       ↓
-  Exploratory Data Analysis
-       ↓
-  Visualization & KPI Development
-       ↓
-  Business Insight & Decision Support
 
+<p align="center">
 
-I focus on structured, decision-oriented analytics — not just charts, but actionable insights.
+📥 Raw Dataset  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇  
+🧹 Data Cleaning & Preprocessing  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇  
+📊 Exploratory Data Analysis  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇  
+📈 Visualization & KPI Development  
+&nbsp;&nbsp;&nbsp;&nbsp;⬇  
+🎯 Business Insight & Decision Support  
+
+</p>
+
+<p align="center">
+Structured thinking. Decision-focused analytics.
+</p>
 
 ---
 
@@ -91,16 +97,16 @@ I focus on structured, decision-oriented analytics — not just charts, but acti
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=compact&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eldho-joshy&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=github_light&hide_border=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=compact&theme=github_light&hide_border=true" height="140"/>
+  <img src="https://streak-stats.demolab.com?user=eldho-joshy&theme=github-light&hide_border=true" height="140"/>
 </p>
 
 ---
 
 ## 📜 Certifications
 
-- AICTE - VOIS Virtual Internship: Conversational Data Analysis with LLMs (Vodafone Idea Foundation & Edunet Foundation)
+- VOIS Internship:Conversational Data Analysis with LLMs - AICTE (Vodafone Idea Foundation & Edunet Foundation)
 - Artificial Intelligence Internship - AICTE & Edunet Foundation
 - Remote Sensing Data Analytics - Indian Institute of Remote Sensing (ISRO)
 - IBM SkillsBuild – Data Analytics  

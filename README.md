@@ -27,7 +27,6 @@
 <p align="center">
 Structured. Sequential. Decision-Oriented.
 </p>
----
 
 ## 🛠 Technical Stack
 

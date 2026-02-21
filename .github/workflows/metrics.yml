@@ -18,10 +18,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: eldho-joshy
           template: classic
-          base: header, community
-          plugin_repositories: yes
-          plugin_repositories_limit: 6
-          plugin_repositories_affiliations: owner
+          base: header, community, repositories
           config_timezone: Asia/Kolkata
           config_display: large
           config_theme: forest

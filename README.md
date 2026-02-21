@@ -15,7 +15,7 @@
 🎯 Actively seeking **Data Analyst Internship (May–June 2026)**  
 
 📫 Email: eldhojoshy2006@gmail.com  
-🔗 LinkedIn: linkedin.com/in/eldho-joshy
+🔗 LinkedIn: https://linkedin.com/in/eldho-joshy
 
 ---
 

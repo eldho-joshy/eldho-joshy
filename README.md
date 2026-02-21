@@ -84,7 +84,7 @@ Structured. Sequential. Decision-Oriented.
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eldho-joshy/eldho-joshy/main/metrics.svg" />
+  <img src="https://github.com/eldho-joshy/eldho-joshy/blob/main/github-metrics.svg?raw=true" />
 </p>
 
 ## 📜 Certifications

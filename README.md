@@ -56,7 +56,7 @@ BCA student specializing in AI & Data Science with a strong focus on structured 
 
 ## 🔥 Contribution Activity
 
-[![](https://streak-stats.demolab.com?user=eldho-joshy&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=eldho-joshy&theme=transparent&hide_border=true&v=1)
 
 ---
 

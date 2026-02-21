@@ -18,27 +18,15 @@
 🔗 LinkedIn: https://linkedin.com/in/eldho-joshy
 
 ---
-
 ## 🔄 My Data Approach
 
 <p align="center">
-  
-Raw Dataset  
-<br>          ⬇  
-<br>Data Cleaning & Preprocessing  
-<br>          ⬇  
-<br>Exploratory Data Analysis  
-<br>          ⬇  
-<br>Visualization & KPI Development  
-<br>          ⬇  
-<br>Business Insight & Decision Support  
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=200&color=1F6FEB&center=true&vCenter=true&width=500&lines=Raw+Dataset;↓;Data+Cleaning+%26+Preprocessing;↓;Exploratory+Data+Analysis;↓;Visualization+%26+KPI+Development;↓;Business+Insight+%26+Decision+Support" />
 </p>
 
 <p align="center">
 Structured. Sequential. Decision-Oriented.
 </p>
-
 ---
 
 ## 🛠 Technical Stack

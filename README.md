@@ -22,31 +22,21 @@
 ## 🔄 My Data Approach
 
 <p align="center">
-
-┌──────────────────────────────┐  
+  
 Raw Dataset  
-└──────────────────────────────┘  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇  
-┌──────────────────────────────┐  
-Data Cleaning & Preprocessing  
-└──────────────────────────────┘  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇  
-┌──────────────────────────────┐  
-Exploratory Data Analysis  
-└──────────────────────────────┘  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇  
-┌──────────────────────────────┐  
-Visualization & KPI Development  
-└──────────────────────────────┘  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⬇  
-┌──────────────────────────────┐  
-Business Insight & Decision Support  
-└──────────────────────────────┘  
+<br>⬇  
+<br>Data Cleaning & Preprocessing  
+<br>⬇  
+<br>Exploratory Data Analysis  
+<br>⬇  
+<br>Visualization & KPI Development  
+<br>⬇  
+<br>Business Insight & Decision Support  
 
 </p>
 
 <p align="center">
-Structured thinking. Decision-focused analytics.
+Structured. Sequential. Decision-Oriented.
 </p>
 
 ---

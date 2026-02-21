@@ -1,68 +1,122 @@
-# 👨‍💻 Eldho Joshy
+```markdown
+<h1 align="center">Hi 👋 I'm Eldho Joshy</h1>
 
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Business+Intelligence;AI+%26+Data+Science+Student;Building+Insight-Driven+Solutions;Focused+on+KPI-Driven+Decision+Making;Freelance+Data+Specialist)](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Business+Intelligence;AI+%26+Data+Science+Student;Building+Insight-Driven+Solutions;Focused+on+KPI-Driven+Decision+Making;Freelance+Data+Specialist)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Analyst+in+Progress...;AI+%26+Data+Science+Student;Power+BI+%7C+SQL+%7C+Python;Building+KPI-Driven+Dashboards;Turning+Raw+Data+Into+Business+Insight;Seeking+May–June+2026+Internship" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-BCA student specializing in AI & Data Science with a strong focus on structured analytical thinking and performance-driven insights. I bring hands-on experience in transforming messy, unstructured data into clear, actionable business intelligence. 
+🎓 BCA Student specializing in **AI & Data Science**  
+📊 Focused on **Data Analytics & Business Intelligence**  
+🔍 Strong in **Data Cleaning, EDA, KPI Design, Dashboarding**  
+📍 Kerala, India  
+🎯 Actively seeking **Data Analyst Internship (May–June 2026)**  
 
-🎯 **Actively seeking a Data Analyst Internship for May-June 2026.**
-
-**My Expertise:**
-* 🧹 **Data Cleaning & Preprocessing:** Formatting and structuring real-world, messy datasets.
-* 📊 **Executive Dashboards:** Building KPI-based, interactive visualizations.
-* 📈 **Exploratory Data Analysis (EDA):** Uncovering trends, profitability metrics, and hidden patterns.
-* 💻 **Cross-Functional Collaboration:** Experience leading web interface and technical project builds.
-
----
-
-## 📊 GitHub Analytics Dashboard
-
-[![](https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+📫 Email: your-email@example.com  
+📄 Resume: [Add Drive Link Here]
 
 ---
 
-## 🏗 Featured Projects
+## ⚙️ Data Workflow Mindset
 
-### 📊 Retail Sales & Profitability Analysis (Power BI)
-[![](https://raw.githubusercontent.com/eldho-joshy/Retail-Sales-Profitability-Analysis-Powerbi/main/dashboard-preview.png)](https://github.com/eldho-joshy/Retail-Sales-Profitability-Analysis-Powerbi)
-*Executive Power BI dashboard analyzing revenue growth, margin optimization, and category performance.*
+```
 
-### 📈 Trader Behavior Insights (Python/EDA)
-*Sentiment-based trading performance analysis examining how market fear and greed impact profitability.*
-🔗 [View Repository](https://github.com/eldho-joshy/Trader-Behavior-Insights)
+Raw Data → Cleaning → Transformation → EDA → Visualization → Business Insight → Decision Support
 
-### 🍿 Netflix Data Exploration (Python/EDA)
-*Trend analysis and content distribution insights examining Netflix's library to uncover viewing patterns.*
-🔗 [View Repository](https://github.com/eldho-joshy/Netflix_Data_Exploration)
+```
 
-### 📰 Event Data Analyzer (API & CSV)
-*Structured event analytics extracting meaningful patterns and trends from diverse datasets.*
-🔗 [View Repository](https://github.com/eldho-joshy/Event_Data_Analysis_Project)
+I don’t just analyze data.  
+I structure it for decisions.
 
 ---
 
-## 🛠 Technical Stack
+## 💻 Tech Stack
 
-* **Languages:** Python • SQL • DAX
-* **Tools:** Power BI • MySQL • Jupyter • VS Code
-* **Libraries:** pandas • numpy • matplotlib • seaborn • scikit-learn
-* **Concepts:** Deep Neural Networks (DNN) • Algorithm Analysis • Data Structures
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
 
 ---
 
-## 🔥 Contribution Activity
+## 📊 Featured Projects
 
-[![](https://streak-stats.demolab.com?user=eldho-joshy&theme=transparent&hide_border=true&v=1)
+### 🔹 Retail Sales Performance Dashboard
+Power BI | DAX | KPI Analytics  
+- Revenue & Profitability Analysis  
+- Category & Sub-category Insights  
+- Executive-level Dashboard Design  
+
+🔗 Repo: https://github.com/eldho-joshy/retail-sales-performance-dashboard-powerbi
 
 ---
 
-## 🎯 Current Focus
+### 🔹 Trader Behavior Sentiment Analysis
+Python | Pandas | Matplotlib | EDA  
+- Market Sentiment vs Trading Performance  
+- Fear & Greed Index Insights  
+- Leverage Pattern Study  
 
-* Securing a May-June Data Analyst internship.
-* Deepening expertise in advanced SQL analytics and DAX optimization.
-* Exploring the mechanics of Deep Neural Networks and algorithm characteristics.
-* Expanding my portfolio with complex data formatting and cleaning projects.
+🔗 Repo: https://github.com/eldho-joshy/Trader-Behavior-Insights
+
+---
+
+### 🔹 Netflix Data Exploration
+Python | Data Cleaning | Visualization  
+- Content Distribution Analysis  
+- Genre & Trend Patterns  
+- Insight-driven storytelling  
+
+🔗 Repo: https://github.com/eldho-joshy/Netflix-Data-Exploration
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eldho-joshy&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eldho-joshy&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldho-joshy&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eldho-joshy/eldho-joshy/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📜 Certifications
+
+- IBM SkillsBuild – Data Analytics  
+- IBM Watson Assistant Certification  
+
+---
+
+## 🚀 Currently Building
+
+- Advanced SQL Query Optimization  
+- Business KPI Modeling Projects  
+- Exploring Machine Learning Foundations  
+- Strengthening Data Storytelling Skills  
+
+---
+
+<h3 align="center">“Data is powerful when structured for decisions.”</h3>
+```
+

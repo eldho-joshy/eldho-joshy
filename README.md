@@ -14,9 +14,8 @@
 📍 Kerala, India  
 🎯 Actively seeking **Data Analyst Internship (May–June 2026)**  
 
-📫 Email: your-email@example.com  
-🔗 LinkedIn: https://linkedin.com/in/your-link  
-📄 Resume: Add Google Drive Link
+📫 Email: eldhojoshy2006@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/eldho-joshy
 
 ---
 

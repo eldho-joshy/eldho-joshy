@@ -6,6 +6,7 @@
 <p align="center">
   <I>Transforming raw data into structured business decisions</I>
 </p>
+
 ## 👨‍💻 About Me
 
 🎓 Aspiring Data Analyst | AI & Data Science Background

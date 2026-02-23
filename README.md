@@ -42,15 +42,19 @@ Structured. Sequential. Decision-Oriented.
 
 ### ⚙️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,googlecollab,vscode" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48"/>
 </p>
 
 ### 📊 Analytics & BI
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-Querying-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-003B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DAX-Data%20Modeling-1F6FEB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-Pandas%20%7C%20Matplotlib-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge"/>
 </p>
 
 ---

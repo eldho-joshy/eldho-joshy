@@ -18,20 +18,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: eldho-joshy
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
 
           config_timezone: Asia/Kolkata
           config_display: large
-          config_theme: forest
 
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          plugin_languages_indepth: yes
 
           plugin_repositories: yes
-          plugin_repositories_limit: 6
           plugin_repositories_affiliations: owner
-
-          plugin_metadata: yes

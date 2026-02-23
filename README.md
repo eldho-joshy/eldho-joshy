@@ -30,9 +30,19 @@ Structured. Sequential. Decision-Oriented.
 
 ## 🛠 Technical Stack
 
-### 💻 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,java,r,html" />
+</p>
+
+### 🗄 Databases & Querying
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
 </p>
 
 ### 📊 Analytics & BI

@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋 I'm Eldho Joshy</h1>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <span style="white-space: nowrap; font-family: 'Fira Code', monospace; font-size: 18px; color: #00FF7F;">
-      DATA ANALYST IN PROGRESS  |  POWER BI  |  SQL  |  PYTHON  |  KPI DESIGN  |  DASHBOARD DEVELOPMENT  |  DATA ANALYST INTERNSHIP : MAY–JUNE 2026
-    </span>
-  </marquee>
+<svg width="100%" height="40" viewBox="0 0 1200 40">
+  <style>
+    .text {
+      fill: #00FF7F;
+      font-family: 'Fira Code', monospace;
+      font-size: 18px;
+      white-space: nowrap;
+    }
+  </style>
+  <text x="100%" y="25" class="text">
+    DATA ANALYST IN PROGRESS  |  POWER BI  |  SQL  |  PYTHON  |  KPI DESIGN  |  DASHBOARD DEVELOPMENT  |  DATA ANALYST INTERNSHIP (MAY–JUNE 2026)
+    <animate attributeName="x" from="100%" to="-120%" dur="15s" repeatCount="indefinite"/>
+  </text>
+</svg>
 </p>
-
 ---
 
 ## 👨‍💻 About Me

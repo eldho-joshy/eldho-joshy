@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://eldho-joshy.github.io/eldho-joshy/led.svg" />
 </p>
----
 
 ## 👨‍💻 About Me
 

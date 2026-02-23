@@ -55,6 +55,7 @@ Structured. Sequential. Decision-Oriented.
   <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboard-Development-0A66C2?style=for-the-badge"/>
 </p>
 
 ---

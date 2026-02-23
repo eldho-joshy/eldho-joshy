@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋 I'm Eldho Joshy</h1>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'Fira Code', monospace; font-size: 18px; color: #39FF14;">
-    DATA ANALYST IN PROGRESS  |  POWER BI  |  SQL  |  PYTHON  |  KPI DESIGN  |  DASHBOARD DEVELOPMENT  |  SEEKING INTERNSHIP (MAY–JUNE 2026)
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    <span style="white-space: nowrap; font-family: 'Fira Code', monospace; font-size: 18px; color: #00FF7F;">
+      DATA ANALYST IN PROGRESS  |  POWER BI  |  SQL  |  PYTHON  |  KPI DESIGN  |  DASHBOARD DEVELOPMENT  |  DATA ANALYST INTERNSHIP : MAY–JUNE 2026
+    </span>
   </marquee>
 </p>
 

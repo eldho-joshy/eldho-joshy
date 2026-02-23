@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40">
+  <style>
+    .text {
+      fill: #00FF7F;
+      font-family: monospace;
+      font-size: 18px;
+      white-space: nowrap;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="100%" y="25" class="text">
+    DATA ANALYST IN PROGRESS  |  POWER BI  |  SQL  |  PYTHON  |  KPI DESIGN  |  DASHBOARD DEVELOPMENT  |  SEEKING INTERNSHIP (MAY–JUNE 2026)
+    <animate attributeName="x" from="100%" to="-1400" dur="18s" repeatCount="indefinite"/>
+  </text>
+</svg>

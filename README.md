@@ -3,10 +3,12 @@
 <p align="center">
   <img src="https://eldho-joshy.github.io/eldho-joshy/led.svg" />
 </p>
-
+<p align="center">
+  <I>Transforming raw data into structured business decisions</I>
+</p>
 ## 👨‍💻 About Me
 
-🎓 BCA Student specializing in **AI & Data Science**  
+🎓 Aspiring Data Analyst | AI & Data Science Background
 📊 Focused on **Data Analytics & Business Intelligence**  
 🔎 Strong in **Data Cleaning, Exploratory Data Analysis (EDA), KPI Modeling & Dashboard Design**  
 📍 Kerala, India  

@@ -3,7 +3,7 @@
     .text {
       fill: #00FF7F;
       font-family: monospace;
-      font-size: 18px;
+      font-size: 28px;
       white-space: nowrap;
     }
   </style>

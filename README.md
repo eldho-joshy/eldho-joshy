@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 I'm Eldho Joshy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=800&color=1F6FEB&center=true&vCenter=true&width=650&lines=BCA+(AI+%26+Data+Science)+Student;Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Turning+Raw+Data+Into+Business+Insights;Seeking+Data+Analyst+Internship+(May–June+2026)" />
+  <marquee behavior="scroll" direction="left" scrollamount="6" style="font-family: 'Fira Code', monospace; font-size: 18px; color: #39FF14;">
+    DATA ANALYST IN PROGRESS  |  POWER BI  |  SQL  |  PYTHON  |  KPI DESIGN  |  DASHBOARD DEVELOPMENT  |  SEEKING INTERNSHIP (MAY–JUNE 2026)
+  </marquee>
 </p>
 
 ---

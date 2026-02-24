@@ -14,6 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: eldho-joshy
           template: classic
+          config_display: large
           base: header, community, repositories, metadata
           config_timezone: Asia/Kolkata
           plugin_languages: yes

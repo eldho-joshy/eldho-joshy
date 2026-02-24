@@ -19,6 +19,12 @@
 🔗 LinkedIn: https://linkedin.com/in/eldho-joshy
 
 ---
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github.com/eldho-joshy/eldho-joshy/blob/main/github-metrics.svg?raw=true" />
+</p>
+
 ## 🔄 My Data Approach
 
 <p align="center">

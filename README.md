@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Eldho Joshy</h1>
+<h1 align="center">Hello, I'm Eldho Joshy</h1>
 
 <p align="center">
   <img src="https://eldho-joshy.github.io/eldho-joshy/led.svg" />

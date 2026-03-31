@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Eldho Joshy</h1>
 
 <p align="center">
-  <img src="https://eldho-joshy.github.io/eldho-joshy/led.svg" />
+  <img src="https://raw.githubusercontent.com/eldho-joshy/eldho-joshy/main/led.svg" />
 </p>
 <p align="center">
   <I>Transforming raw data into actionable business insights</I>

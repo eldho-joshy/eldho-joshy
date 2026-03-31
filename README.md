@@ -4,20 +4,24 @@
   <img src="https://eldho-joshy.github.io/eldho-joshy/led.svg" />
 </p>
 <p align="center">
-  <I>Transforming raw data into structured business decisions</I>
+  <I>Transforming raw data into actionable business insights</I>
 </p>
 
 ## 👨‍💻 About Me
 
-🎓 Aspiring Data Analyst | AI & Data Science Background
+🎓 Data Analyst | AI & Data Science Background
 📊 Focused on **Data Analytics & Business Intelligence**  
 🔎 Strong in **Data Cleaning, Exploratory Data Analysis (EDA), KPI Modeling & Dashboard Design**  
 📍 Kerala, India  
-🎯 Actively seeking **Data Analyst Internship (May–June 2026)**  
+🎯 Actively seeking **Data Analyst Internship (May–July 2026)**  
 
-📫 Email   : eldhojoshy2006@gmail.com  
+I analyze data to uncover patterns, build dashboards, and generate insights that support business decisions.
+
+## 📫 Connect with me
+
+📧 Email: eldhojoshy2006@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/eldho-joshy
-
+ 
 ---
 ## 📈 GitHub Analytics
 

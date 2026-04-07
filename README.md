@@ -79,6 +79,7 @@ Structured. Sequential. Decision-Oriented.
 
 🔗 https://github.com/eldho-joshy/customer-churn-prediction
 
+
 ### 🔹 Retail Sales Performance Dashboard  
 **Tools:** Power BI, DAX  
 **Focus:** Revenue growth, profit optimization, category performance  
@@ -86,7 +87,7 @@ Structured. Sequential. Decision-Oriented.
 
 🔗 https://github.com/eldho-joshy/retail-sales-performance-dashboard-powerbi  
 
----
+
 
 ### 🔹 Trader Behavior Insights  
 **Tools:** Python, Pandas, Matplotlib  
@@ -95,7 +96,7 @@ Structured. Sequential. Decision-Oriented.
 
 🔗 https://github.com/eldho-joshy/Trader-Behavior-Insights  
 
----
+
 
 ### 🔹 Netflix Data Exploration  
 **Tools:** Python, Data Cleaning, Visualization  

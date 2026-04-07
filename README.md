@@ -72,6 +72,13 @@ Structured. Sequential. Decision-Oriented.
 
 ## 📌 Featured Projects
 
+### 🔹 Telco Customer Churn Prediction  
+**Tools:** Python, Pandas, Scikit-learn, Seaborn  
+**Focus:** Customer retention, churn prediction, risk segmentation  
+**Skills Demonstrated:** Machine learning, EDA, feature engineering, model evaluation  
+
+🔗 https://github.com/eldho-joshy/customer-churn-prediction
+
 ### 🔹 Retail Sales Performance Dashboard  
 **Tools:** Power BI, DAX  
 **Focus:** Revenue growth, profit optimization, category performance  

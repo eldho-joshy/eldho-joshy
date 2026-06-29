@@ -12,8 +12,7 @@
 🎓 Data Analyst | AI & Data Science Background
 📊 Focused on **Data Analytics & Business Intelligence**  
 🔎 Strong in **Data Cleaning, Exploratory Data Analysis (EDA), KPI Modeling & Dashboard Design**  
-📍 Kerala, India  
-🎯 Actively seeking **Data Analyst Internship (May–July 2026)**  
+📍 Kerala, India   
 
 I analyze data to uncover patterns, build dashboards, and generate insights that support business decisions.
 

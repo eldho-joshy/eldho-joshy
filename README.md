@@ -12,6 +12,8 @@
 
 ## 👨‍💻 About Me
 
+[![Metrics](https://github.com/eldho-joshy/eldho-joshy/actions/workflows/metrics.yml/badge.svg)](https://github.com/eldho-joshy/eldho-joshy/actions/workflows/metrics.yml)
+
 - 🎓 BCA student specializing in Artificial Intelligence and Data Science
 - 📊 Interested in Data Analytics, Business Intelligence, and Data Science
 - 🐍 Working with Python, Pandas, NumPy, and Scikit-learn

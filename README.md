@@ -21,7 +21,7 @@
  
  📍 Kerala, India
 
-I enjoy transforming raw datasets into useful insights and building data-driven applications that help people understand patterns and makebetter decisions.
+I enjoy transforming raw datasets into useful insights and building data-driven applications that help people understand patterns and make better decisions.
 ## 📫 Connect with me
 
 📧 Email: eldhojoshy2006@gmail.com  

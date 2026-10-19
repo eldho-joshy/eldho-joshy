@@ -113,7 +113,6 @@ An interactive personal finance analytics application that analyzes transactions
   <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Anomaly%20Detection-Statistical%20%26%20ML-6A5ACD?style=for-the-badge" />
-  [![Metrics](https://github.com/eldho-joshy/eldho-joshy/actions/workflows/metrics.yml/badge.svg)](https://github.com/eldho-joshy/eldho-joshy/actions/workflows/metrics.yml)
 </p>
 
 ### ⚙️ Tools and Platforms

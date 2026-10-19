@@ -1,21 +1,22 @@
-<h1 align="center">Hello, I'm Eldho Joshy</h1>
+<h1 align="center">Hi, I'm Eldho Joshy</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/eldho-joshy/eldho-joshy/main/led.svg" />
 </p>
 <p align="center">
-  <I>Transforming raw data into actionable business insights</I>
+  <I>Turning raw data into meaningful insights through analytics, visualization, and machine learning.</I>
 </p>
 
 ## 👨‍💻 About Me
 
-🎓 Data Analyst | AI & Data Science Background
-📊 Focused on **Data Analytics & Business Intelligence**  
-🔎 Strong in **Data Cleaning, Exploratory Data Analysis (EDA), KPI Modeling & Dashboard Design**  
-📍 Kerala, India   
+ 🎓 BCA student specializing in Artificial Intelligence and Data Science
+ 📊 Interested in Data Analytics, Business Intelligence, and Data Science
+ 🐍 Working with Python, Pandas, NumPy, and Scikit-learn
+ 📈 Building interactive dashboards using Power BI and Streamlit
+ 🗄️ Practicing SQL, data cleaning, exploratory data analysis, and visualization
+ 📍 Kerala, India
 
-I analyze data to uncover patterns, build dashboards, and generate insights that support business decisions.
-
+I enjoy transforming raw datasets into useful insights and building data-driven applications that help people understand patterns and makebetter decisions.
 ## 📫 Connect with me
 
 📧 Email: eldhojoshy2006@gmail.com  

@@ -76,7 +76,7 @@ Structured. Sequential. Decision-Oriented.
 **Focus:** Personal finance analytics, spending patterns, savings analysis, and expense anomaly detection.
 **Skills Demonstrated:** Data cleaning, exploratory data analysis (EDA), data visualization, statistical anomaly detection using MAD, Isolation Forest, model evaluation, and interactive dashboard development.
 
-🔗 [View Project](https://github.com/eldho-joshy/personal-finance-advisor)
+🔗 https://github.com/eldho-joshy/personal-finance-advisor
 
 ### 🔹 Telco Customer Churn Prediction  
 **Tools:** Python, Pandas, Scikit-learn, Seaborn  

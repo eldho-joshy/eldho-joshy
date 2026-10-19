@@ -10,10 +10,15 @@
 ## 👨‍💻 About Me
 
  🎓 BCA student specializing in Artificial Intelligence and Data Science
+ 
  📊 Interested in Data Analytics, Business Intelligence, and Data Science
+ 
  🐍 Working with Python, Pandas, NumPy, and Scikit-learn
+ 
  📈 Building interactive dashboards using Power BI and Streamlit
+ 
  🗄️ Practicing SQL, data cleaning, exploratory data analysis, and visualization
+ 
  📍 Kerala, India
 
 I enjoy transforming raw datasets into useful insights and building data-driven applications that help people understand patterns and makebetter decisions.

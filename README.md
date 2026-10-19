@@ -3,148 +3,163 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/eldho-joshy/eldho-joshy/main/led.svg" />
 </p>
+
 <p align="center">
-  <I>Turning raw data into meaningful insights through analytics, visualization, and machine learning.</I>
+  <em>Turning raw data into meaningful insights through analytics, visualization, and machine learning.</em>
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
- 🎓 BCA student specializing in Artificial Intelligence and Data Science
- 
- 📊 Interested in Data Analytics, Business Intelligence, and Data Science
- 
- 🐍 Working with Python, Pandas, NumPy, and Scikit-learn
- 
- 📈 Building interactive dashboards using Power BI and Streamlit
- 
- 🗄️ Practicing SQL, data cleaning, exploratory data analysis, and visualization
- 
- 📍 Kerala, India
+- 🎓 BCA student specializing in Artificial Intelligence and Data Science
+- 📊 Interested in Data Analytics, Business Intelligence, and Data Science
+- 🐍 Working with Python, Pandas, NumPy, and Scikit-learn
+- 📈 Building interactive dashboards using Power BI and Streamlit
+- 🗄️ Practicing SQL, data cleaning, exploratory data analysis, and visualization
+- 📍 Kerala, India
 
 I enjoy transforming raw datasets into useful insights and building data-driven applications that help people understand patterns and make better decisions.
-## 📫 Connect with me
 
-📧 Email: eldhojoshy2006@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/eldho-joshy
- 
----
-## 📈 GitHub Analytics
+## 📫 Connect with Me
 
-<p align="center">
-  <img src="https://github.com/eldho-joshy/eldho-joshy/blob/main/github-metrics.svg?raw=true" />
-</p>
-
-## 🔄 My Data Approach
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00C853&center=true&vCenter=true&width=650&lines=Data+Collection+%26+Understanding;Data+Cleaning+%26+Preprocessing;Exploratory+Data+Analysis+(EDA);KPI+Design+%26+Visualization;Business+Insights+%26+Decision+Support" />
-</p>
-<p align="center">
-Structured. Sequential. Decision-Oriented.
-</p>
-
-## 🛠 Technical Stack
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,java,r,html" />
-</p>
-
-### 🗄 Databases & Querying
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48"/>
-</p>
-
-### 📊 Analytics & BI
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DAX-Data%20Modeling-1F6FEB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Dashboard-Development-0A66C2?style=for-the-badge"/>
-</p>
+- 📧 Email: [eldhojoshy2006@gmail.com](mailto:eldhojoshy2006@gmail.com)
+- 🔗 LinkedIn: [Eldho Joshy](https://linkedin.com/in/eldho-joshy)
+- 💻 GitHub: [@eldho-joshy](https://github.com/eldho-joshy)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Personal Finance Advisor with AI Analysis
-**Tools:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib
+### 💰 Personal Finance Advisor with AI Analysis
 
-**Focus:** Personal finance analytics, spending patterns, savings analysis, and expense anomaly detection.
+An interactive personal finance analytics application that analyzes transactions, visualizes spending patterns, summarizes savings, and identifies potentially unusual expenses.
 
-**Skills Demonstrated:** Data cleaning, exploratory data analysis (EDA), data visualization, statistical anomaly detection using MAD, Isolation Forest, model evaluation, and interactive dashboard development.
+- **Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit, Matplotlib
+- **Analytics:** Income and expense analysis, category-wise spending, monthly savings, and financial visualizations
+- **Anomaly Detection:** Category-based Median Absolute Deviation (MAD) and Isolation Forest
+- **Evaluation:** Confusion matrices, precision, recall, F1-score, and validation on synthetic datasets
 
-🔗 https://github.com/eldho-joshy/personal-finance-advisor
+🔗 [View Project on GitHub](https://github.com/eldho-joshy/personal-finance-advisor)
 
-### 🔹 Telco Customer Churn Prediction  
-**Tools:** Python, Pandas, Scikit-learn, Seaborn  
-**Focus:** Customer retention, churn prediction, risk segmentation  
-**Skills Demonstrated:** Machine learning, EDA, feature engineering, model evaluation  
+### 📉 Telco Customer Churn Prediction
 
-🔗 https://github.com/eldho-joshy/customer-churn-prediction
+- **Tools:** Python, Pandas, Scikit-learn, Seaborn
+- **Focus:** Customer retention, churn prediction, and risk segmentation
+- **Skills:** Machine learning, EDA, feature engineering, and model evaluation
 
+🔗 [View Project on GitHub](https://github.com/eldho-joshy/customer-churn-prediction)
 
-### 🔹 Retail Sales Performance Dashboard  
-**Tools:** Power BI, DAX  
-**Focus:** Revenue growth, profit optimization, category performance  
-**Skills Demonstrated:** KPI modeling, trend analysis, executive dashboard design  
+### 📊 Retail Sales Performance Dashboard
 
-🔗 https://github.com/eldho-joshy/retail-sales-performance-dashboard-powerbi  
+- **Tools:** Power BI, DAX
+- **Focus:** Revenue growth, profit optimization, and category performance
+- **Skills:** KPI modeling, trend analysis, and dashboard design
 
+🔗 [View Project on GitHub](https://github.com/eldho-joshy/retail-sales-performance-dashboard-powerbi)
 
+### 📈 Trader Behavior Insights
 
-### 🔹 Trader Behavior Insights  
-**Tools:** Python, Pandas, Matplotlib  
-**Focus:** Market sentiment vs trader performance  
-**Analysis:** Fear & Greed Index impact on leverage & profitability  
+- **Tools:** Python, Pandas, Matplotlib
+- **Focus:** Market sentiment versus trader performance
+- **Analysis:** Fear & Greed Index impact on leverage and profitability
 
-🔗 https://github.com/eldho-joshy/Trader-Behavior-Insights  
+🔗 [View Project on GitHub](https://github.com/eldho-joshy/Trader-Behavior-Insights)
 
+### 🎬 Netflix Data Exploration
 
+- **Tools:** Python, Pandas, Data Visualization
+- **Focus:** Content distribution patterns and trend analysis
 
-### 🔹 Netflix Data Exploration  
-**Tools:** Python, Data Cleaning, Visualization  
-**Focus:** Content distribution patterns & trend analysis  
+🔗 [View Project on GitHub](https://github.com/eldho-joshy/Netflix-Data-Exploration)
 
-🔗 https://github.com/eldho-joshy/Netflix-Data-Exploration  
+### 📅 Event Data Analyzer
 
+- **Tools:** Python, CSV Processing, EDA
+- **Focus:** Extracting patterns from event-based datasets
 
-
-### 🔹 Event Data Analyzer  
-**Tools:** Python, CSV Processing, EDA  
-**Focus:** Extracting structured patterns from event-based datasets  
-
-🔗 https://github.com/eldho-joshy/Event-Data-Analyzer  
+🔗 [View Project on GitHub](https://github.com/eldho-joshy/Event-Data-Analyzer)
 
 ---
 
+## 🛠️ Technical Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,r,html" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 📊 Data Analysis and Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-Business%20Intelligence-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-Data%20Modeling-1F6FEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Streamlit-Interactive%20Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### 🤖 Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDA-Exploratory%20Analysis-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anomaly%20Detection-Statistical%20%26%20ML-6A5ACD?style=for-the-badge" />
+</p>
+
+### ⚙️ Tools and Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github.com/eldho-joshy/eldho-joshy/blob/main/github-metrics.svg?raw=true" alt="GitHub statistics" />
+</p>
+
+---
+
+## 🔄 My Data Approach
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00C853&center=true&vCenter=true&width=650&lines=Data+Collection+%26+Understanding;Data+Cleaning+%26+Preprocessing;Exploratory+Data+Analysis+(EDA);KPI+Design+%26+Visualization;Business+Insights+%26+Decision+Support" alt="Data analysis workflow" />
+</p>
+
+<p align="center">
+  Structured. Sequential. Decision-Oriented.
+</p>
+
+---
 
 ## 📜 Certifications
 
-- VOIS Internship:Conversational Data Analysis with LLMs - AICTE (Vodafone Idea Foundation & Edunet Foundation)
-- Artificial Intelligence Internship - AICTE & Edunet Foundation
-- Remote Sensing Data Analytics - Indian Institute of Remote Sensing (ISRO)
-- IBM SkillsBuild – Data Analytics  
-- IBM Watson Assistant Certification  
+- VOIS Internship: Conversational Data Analysis with LLMs — AICTE, Vodafone Idea Foundation & Edunet Foundation
+- Artificial Intelligence Internship — AICTE & Edunet Foundation
+- Remote Sensing Data Analytics — Indian Institute of Remote Sensing (ISRO)
+- IBM SkillsBuild — Data Analytics
+- IBM Watson Assistant Certification
 
 ---
 
 ## 🚀 Currently Strengthening
 
-- Advanced SQL (Joins, Subqueries, Query Optimization)  
-- Power BI Data Modeling & DAX  
-- Business KPI Design  
-- Machine Learning Foundations  
+- Advanced SQL: Joins, subqueries, and query optimization
+- Power BI data modeling and DAX
+- Business KPI design
+- Machine learning foundations
 
 ---
 

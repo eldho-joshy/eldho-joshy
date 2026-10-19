@@ -9,7 +9,7 @@
   </style>
   <rect width="100%" height="100%" fill="black"/>
   <text x="100%" y="38" class="text">
-    DATA ANALYST IN PROGRESS  |  POWER BI  |  SQL  |  PYTHON  |  MACHINE LEARNING |  DASHBOARD DEVELOPMENT  
+    DATA ANALYTICS | DATA SCIENCE |  PYTHON |  SQL  |  POWER BI  |  MACHINE LEARNING |  ARTIFICIAL INTELLIGENCE  
     <animate attributeName="x" from="100%" to="-1800" dur="30s" repeatCount="indefinite"/>
   </text>
 </svg>

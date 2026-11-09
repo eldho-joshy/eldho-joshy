@@ -79,7 +79,7 @@ An interactive personal finance analytics application that analyzes transactions
 
 🔗 [View Project on GitHub](https://github.com/eldho-joshy/Event-Data-Analyzer)
 
----
+
 
 ## 🛠️ Technical Stack
 
@@ -121,7 +121,7 @@ An interactive personal finance analytics application that analyzes transactions
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
 </p>
 
----
+
 
 ## 📈 GitHub Analytics
 

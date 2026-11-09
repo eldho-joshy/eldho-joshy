@@ -27,7 +27,6 @@ I enjoy transforming raw datasets into useful insights and building data-driven 
 - 🔗 LinkedIn: [Eldho Joshy](https://linkedin.com/in/eldho-joshy)
 - 💻 GitHub: [@eldho-joshy](https://github.com/eldho-joshy)
 
----
 
 ## 📌 Featured Projects
 

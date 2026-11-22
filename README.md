@@ -77,7 +77,7 @@ An interactive personal finance analytics application that analyzes transactions
 - **Tools:** Python, CSV Processing, EDA
 - **Focus:** Extracting patterns from event-based datasets
 
-🔗 [View Project on GitHub](https://github.com/eldho-joshy/Event-Data-Analyzer)
+🔗 [View Project on GitHub](https://github.com/eldho-joshy/Event_Data_Analysis_Project)
 
 
 

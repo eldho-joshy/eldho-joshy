@@ -70,7 +70,7 @@ An interactive personal finance analytics application that analyzes transactions
 - **Tools:** Python, Pandas, Data Visualization
 - **Focus:** Content distribution patterns and trend analysis
 
-🔗 [View Project on GitHub](https://github.com/eldho-joshy/Netflix-Data-Exploration)
+🔗 [View Project on GitHub](https://github.com/eldho-joshy/Netflix_Data_Exploration)
 
 ### 📅 Event Data Analyzer
 
